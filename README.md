@@ -1,5 +1,5 @@
 # E-Commerce Backend 
-![license badge](https://img.shields.io/github/license/jacob76134/e-commerce-backend-)
+![license badge](https://img.shields.io/github/license/jacob76134/e-commerce-backend)
 ## Description
 A backend for an E-Commerce site that allows for different product updates/deletes/etc.
 ## Table of Contents
